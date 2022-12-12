@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/JessT8/code-reading#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
 }
